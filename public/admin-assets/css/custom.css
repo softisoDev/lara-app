@@ -1,0 +1,45 @@
+.mt-10 {
+    margin-top: 6rem !important
+}
+
+.mt-8 {
+    margin-top: 5rem !important
+}
+
+.text-red {
+    color: red !important;
+}
+
+.w-1 {
+    width: 1% !important;
+    max-width: 1% !important;
+}
+
+.w-3 {
+    width: 3% !important;
+    max-width: 3% !important;
+}
+
+.w-5 {
+    width: 5% !important;
+    max-width: 5% !important;
+}
+
+.w-10 {
+    width: 10% !important;
+    max-width: 10% !important;
+}
+
+
+.w-15 {
+    width: 15% !important;
+    max-width: 15% !important;
+}
+
+.navbar-shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.bootstrap-select{
+    border: 1px solid #ced4da !important;
+}
